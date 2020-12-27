@@ -1,5 +1,9 @@
 # pyHockeyVids
 
+![Language](https://img.shields.io/badge/language-Python-green.svg)
+![MIT](https://shields.io/badge/license-MIT-green)
+![Issues](https://img.shields.io/github/issues/jonosur/pyHockeyVids)
+
 pyHockeyVids is a Python3 program using PyQT5 and requests to fetch NHL videos and play them on a connected Chromecast Device or your default Web Browser.
 
 Team themes are available, and will update the calendar with games played.
