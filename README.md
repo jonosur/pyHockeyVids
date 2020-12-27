@@ -1,9 +1,9 @@
 # pyHockeyVids
 
-[![Language](https://img.shields.io/badge/language-Python-green.svg)](http://www.python.org)
-[![MIT](https://shields.io/badge/license-MIT-green)](https://choosealicense.com/licenses/mit/)
-[![Issues](https://img.shields.io/github/issues/jonosur/pyHockeyVids)](https://github.com/jonosur/pyHockeyVids/issues)
-[![Downloads](https://img.shields.io/github/downloads/jonosur/pyHockeyVids/total)](https://github.com/jonosur/pyHockeyVids/archive/main.zip)
+[![Language](https://img.shields.io/badge/language-Python-green.svg?style=for-the-badge)](http://www.python.org)
+[![MIT](https://shields.io/badge/license-MIT-green?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
+[![Issues](https://img.shields.io/github/issues/jonosur/pyHockeyVids?style=for-the-badge)](https://github.com/jonosur/pyHockeyVids/issues)
+[![Downloads](https://img.shields.io/github/downloads/jonosur/pyHockeyVids/total?style=for-the-badge)](https://github.com/jonosur/pyHockeyVids/archive/main.zip)
 
 pyHockeyVids is a Python3 program using PyQT5 and requests to fetch NHL videos and play them on a connected Chromecast Device or your default Web Browser.
 
